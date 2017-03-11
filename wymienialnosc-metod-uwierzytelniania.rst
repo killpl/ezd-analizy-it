@@ -35,7 +35,7 @@ Metody uwierzytelniania wykorzystujące kryptografię asymetryczną pozwalają n
 Wśród tych metod można wymienić.
 
 * Bitid_.
-* BitAuth_. Identyfikacja następuje bez wykorzystania mechanizmu sesyj, dla każdego zapytania oddzielnie. Jest to zatem rozwiązanie bezstanowe.
+* BitAuth_. Identyfikacja następuje bez wykorzystania mechanizmu sesji, dla każdego zapytania oddzielnie. Jest to zatem rozwiązanie bezstanowe.
 * SQRL_.
 * Certyfikaty klienckie SSL (wykorzystywane m.in. w `estońskiej e-rezydencji`_).
 * Polski podpis kwalifikowany.
@@ -73,7 +73,7 @@ Identyfikacja za pomocą hasła jest metodą dość prymitywną i problematyczn�
    W temacie bezpieczeństwa ePUAP zobacz `„Nie używam profilu zaufanego na ePUAP”`_.
 
 .. _TOTP: https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm
-.. _`“Password Managers: Attacks and Defenses”`: http://crypto.stanford.edu/~dabo/pubs/abstracts/pwdmgrBrowser.html
+.. _`“Password Managers: Attacks and Defenses”`: http://crypto.stanforsd.edu/~dabo/pubs/abstracts/pwdmgrBrowser.html
 .. _`Rozporządzenie Ministra Spraw Wewnętrznych i Administracji w sprawie dokumentacji przetwarzania danych osobowych oraz warunków technicznych i organizacyjnych,jakim powinny odpowiadać urządzenia i systemy informatyczne służące do przetwarzania danych osobowych`: http://isap.sejm.gov.pl/DetailsServlet?id=WDU20041001024
 .. _Bitid: https://github.com/bitid/bitid
 .. _BitAuth: https://github.com/bitpay/bitauth
